@@ -292,4 +292,8 @@ Media Queries
         'aside1'
         'footer';
     }
+    header {
+        grid-template-columns: auto;
+        justify-content: center;
+    }
 }
